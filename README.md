@@ -5,7 +5,7 @@
 This project analyzes an E-Commerce Superstore dataset using Python and Pandas to uncover business insights related to sales performance, profitability, customer behavior, product performance, and regional trends.
 
 The objective is to transform raw transactional data into actionable business recommendations through data analysis and visualization.
-![image]()
+![image](https://github.com/adarshvatspandey/E-Commerce_sales_analysis_using_python/blob/6ca3fccfa2729dfeade03d0b8ad1753651531000/images.jpg)
 ---
 
 ## Dataset Information
